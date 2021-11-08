@@ -11,44 +11,56 @@
 ### Common Cybersecurity Threat
 1. Malware (Malicious Software)
    - Malware is a general term used for software that is designed to:
-     - disrupt computer operation
-     - gather sensitive information
-     - gain access to private computer system
+      - disrupt computer operation
+      - gather sensitive information
+      - gain access to private computer system
      
    - It can appear in the form of:
-     - code
-     - scripts
-     - active content
-     - other software
-     
-   - Types of Malware
-     1. Virus 
-        - A computer virus is the computer program that self-replicates.
-        - A computer virus is a malicious program whcih is designed to:
-          1. Alter the computer functions
-          2. Damage the valuable files on the computer drive
-          3. Slow down the comptuer performance
-        - Main sources of virus propagation
-          1. Infected File Downloading from Internet
-          2. Scam Websites
-          3. Email Attachments
-          4. Scam Sosial Media Links
-          5. Copying on Hard Drive
-          6. Visiting Infected Websites
-          
-     2. Worm
-     3. Spyware
-     4. Adware
-     5. Trojan
-     6. Ransomware
-       
-2. Social Engineering
+      - code
+      - scripts
+      - active content
+      - other software
 
-3. Man-in-the-Middle Attak
+   - Types of Malware:
+      1. Virus 
+         - What is virus:
+            - A computer virus is the computer program that self-replicates.
+            
+         - A computer virus is a malicious program whcih is designed to:
+            1. Alter the computer functions
+            2. Damage the valuable files on the computer drive
+            3. Slow down the comptuer performance
+            
+         - Main sources of virus propagation
+            1. Infected File Downloading from Internet
+            2. Scam Websites
+            3. Email Attachments
+            4. Scam Sosial Media Links
+            5. Copying on Hard Drive
+            6. Visiting Infected Websites
 
-4. Phising
-
-5. Password Attacks
+      2. Worm
+         - What is worm:
+            - Any program that can propagate without human intervention.
+            - Types of malware that replicate on the computers.
+	          
+         - How the Worm works:
+	          1. Objective of a worm is to spread over the computers in a network
+	          2. By exploiting the vulnerabilities in the computer OS and computer network.
+	          3. Considered to be harmless without payload.
+	          4. But when additional payloads are added to the worms, they can become dangerous in installing other malicious programs hidden in the payloads.
+	          
+         - Consume the major portions of the computer resources:
+	          1. Bandwith
+	          2. Hard Disk
+	          3. Memory
+	          
+         - Recognize computer infected by Worms
+	          1. Some errors related to the OS and system files appear
+	          2. Firewall warnings may pop-up in certain cases
+	          3. Stange icons or files appear on the desktop
+	          4. The performance of computer slow downs
+	          5. System may crash frequently
 
 
 
